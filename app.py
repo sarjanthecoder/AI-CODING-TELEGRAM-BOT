@@ -10,7 +10,7 @@ from telegram.constants import ChatAction, ParseMode
 
 # --- Configuration ---
 # Your bot tokens and API keys go here.
-TELEGRAM_BOT_TOKEN = "8456063901:AAHMsMlpEtg5WJKnacibeS7l8gA-M5k_Rro"
+TELEGRAM_BOT_TOKEN = "8168727553:AAE97pnSyvkY5rc-ykKbwwUt3bcuHixs6Qw"
 GEMINI_API_KEY = "AIzaSyAfUYgR1IYrvlhkS8rhztgUlCj0YWE0Ck8"
 
 # The working Gemini API URL with the gemini-1.5-flash model
@@ -125,4 +125,5 @@ if __name__ == "__main__":
 
     print("CoderBoyBot is running...")
     app.run_polling()
+
 
