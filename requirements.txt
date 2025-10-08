@@ -1,5 +1,6 @@
-
+gunicorn
 google-generativeai
 Pillow
 python-telegram-bot>=20.5
 aiohttp>=3.8.5
+
